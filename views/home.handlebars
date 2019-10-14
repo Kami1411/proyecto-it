@@ -1,0 +1,38 @@
+
+
+<h2>Consulta de MANG la adskfdgfhj</h2>
+
+<div class="filtro">
+    <div class="filtro">
+        <label for="Manga">Manga</label>
+        <input type="text" name="Manga" id="Manga">
+    </div>
+
+    <div class="filtro">
+        <label for="Mangaka">Artista</label>
+        <input type="text" name="Mangaka" id="Mangaka">
+    </div>
+
+    <button id="buscar" onclick="buscar()">Consultar</button>
+</div>
+
+<script>
+
+    function buscar() {
+
+        let url = "/Mangas?"
+
+        let Manga = document.getElementById("Manga").value;
+        if (Manga) {
+            url += "Mangas=" + Manga;
+        }
+
+        let Mangaka = document.getElementById("Mangaka").value;
+        if (Mangaka) {
+            url += "Mangaka=" + Mangaka;
+        }
+
+        location = url;
+    }
+
+</script>

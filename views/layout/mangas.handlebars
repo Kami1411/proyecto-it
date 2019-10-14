@@ -1,0 +1,15 @@
+ <h1>Colección de {{listaDatos.length}} mierda</h1>
+
+{{#each listaDatos}}
+<div class="Mangas">
+            <ul>
+                <li>{{this.Manga}}</li>
+                <li>{{this.Mangaka}}</li>
+                <li>{{this.Description}}</li>
+                <li>{{this.Link}}</li>
+                <li>{{this.StartPublication}}</li>
+                <li>{{this.FinalPublication}}</li>
+                <img class="img-image" src="client{{this.image}}">
+            </ul>
+  </div> 
+{{/each}}

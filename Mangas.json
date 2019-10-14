@@ -1,0 +1,503 @@
+[
+    {
+    "Manga": "Astroboy",
+    "Mangaka": "Osamu Tekuza",
+    "Description": "",
+    "image":"astroboy.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1952,
+    "final publication":1968
+},
+{
+    "Manga":"Versalles no bara",
+    "Mangaka":"Riyoko Ikeda",
+    "Description": "",
+    "image":"ladyoscar.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1972,
+    "final publication":1973
+},
+{
+    "Manga": "Kaze to ki no uta",
+    "Mangaka":"Keiko Takemiya",
+    "Description": "",
+    "image":"kaze.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1976,
+    "final publication":1984
+},
+{
+    "Manga": "Capitan Harlock",
+    "Mangaka": "Leiji Matsumoto",
+    "Description": "",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 1977,
+    "final publication":1979
+},
+{
+    "Manga": "Poe no ichizoku",
+    "Mangaka":"Moto Hagio",
+    "Description": "dlkffgj",
+    "image":"poeno.jgp",
+    "link":"Poe No ichizoku",
+    "chapters":23,
+    "start publication": 1972,
+    "final publication":1976
+},
+{
+    "Manga": "Yu Yu Hakusho",
+    "Mangaka": "Yoshihiro Togashi",
+    "Description": "",
+    "image":"yuyu.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1990,
+    "final publication":1994
+},
+{
+    "Manga":"Dragon Ball",
+    "Mangaka":"Akira Toriyama",
+    "Description": "db.jpg",
+    "image":"",
+    "link":"",
+    "chapters":34,
+    "start publication": 1984,
+    "final publication":1995
+},
+{
+    "Manga": "JoJo's no Bizarre Adventure",
+    "Mangaka":"Hirohiko Araki", 
+    "Description": "",
+    "image":"jojo.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1987,
+    "final publication": 2018
+},
+{
+    "Manga":"Captain Tsubasa",
+    "Mangaka": "Yoiichi Takahashi" ,
+    "Description": "",
+    "image":"super.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1981,
+    "final publication":1988
+},
+{
+    "Manga":"Saint Seiya",
+    "Mangaka": "Masami Kurumada",
+    "Description": "",
+    "image":"saint seiya.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1986,
+    "final publication":1990
+},
+{   
+    "Manga":"Slam Dunk",
+    "Mangaka": "Takehiko Inoue",
+    "Description": "",
+    "image":"slam.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1990,
+    "final publication":1994
+},
+{   
+    "Manga":"Rurouni Kenshin",
+    "Mangaka":"Nobuhiro Watsuki",
+    "Description": "",
+    "image":"samurai.X.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1994,
+    "final publication":1998
+},
+{   
+    "Manga":"HunterxHunter",
+    "Mangaka":"Yoshihiro Togashi",
+    "Description": "",
+    "image":"hunter.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1998,
+    "final publication":2037
+},
+{
+    "Manga": "Shaman King",
+    "Mangaka": "Hiroyuki Takei",
+    "Description": "",
+    "image":"shaman.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1998,
+    "final publication":2004
+},
+{
+    "Manga":"Hokuto no Ken",
+    "Mangaka": "Tesuo Hara",
+    "Description": "",
+    "image":"hokuto.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1983,
+    "final publication":1988
+},
+{
+    "Manga": "Berserk",
+    "Mangaka": "Kentaro Miura",
+    "Description": "",
+    "image":"berserk",
+    "link":"",
+    "chapters":23,
+    "start publication": 1989,
+    "final publication":3007
+},
+ {
+    "Manga": "Candy Candy",
+    "Mangaka": "Keiko Nagita",
+    "Description": "",
+    "image":"candy.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1975,
+    "final publication":1981
+},
+{
+    "Mangaka":"Tsugumi Ooba & Takeshi Obata",
+    "Description": "",
+    "image":"baku.jpg",
+    "link":"",
+    "Manga":"Bakuman",
+    "chapters":23,
+    "start publication": 2008,
+    "final publication":2012
+},
+{
+    "Manga":"Shokugeki no Soma",
+    "Mangaka": "Tsukuda Yuuta",
+    "Description": "",
+    "image" : "shokugeki.jpg",
+    "chapters":23,
+    "start publication": 2012,
+    "final publication":2019
+},
+{
+    "Manga": "Neon Genesis Evangelion",
+    "Mangaka": "Yoshiyuki Sadamoto",
+    "Description": "",
+    "image":"Evangelion.PNG",
+    "link":"",
+    "chapters":23,
+    "start publication": 1994,
+    "final publication":2013
+},
+{
+    "Manga":"Banana Fish",
+    "Mangaka": "Akimi Yoshida",
+    "Description": "",
+    "image":"banana.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1985,
+    "final publication":1994
+},
+
+{
+    "Manga":"Full Metal Alchemist",
+    "Mangaka": "Hiromu Arakawa",
+    "Description": "",
+    "image":"full.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2001,
+    "final publication":2009
+},
+{
+    "Manga":"City Hunter",
+    "Mangaka": "Tsukasa Hoojoo",
+    "Description": "",
+    "image":"city.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1985,
+    "final publication":1991
+},
+{
+    "Manga":"Nana",
+    "Mangaka": "Ai Yazawa",
+    "Description": "",
+    "image":"nana.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2000,
+    "final publication": 2009
+},
+ {
+    "Manga":"Naruto",
+    "Mangaka": "Mashashi Kishimoto",
+    "Description": "",
+    "image":"naruto.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1999,
+    "final publication":2014
+},
+
+ {
+    "Manga": "Monster",
+    "Mangaka":"Naoki Urasawa",
+    "Description": "",
+    "image":"monster.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1994,
+    "final publication":2001
+},
+{
+    "Manga": "Uzumaki",
+    "Mangaka": "Junji Ito",
+    "Description": "",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 1998,
+    "final publication":1999
+},
+{
+    "Manga": "J no subete",
+    "Mangaka": "Nakamura Asumiko",
+    "Description": "",
+    "image":"jnosubete.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2004,
+    "final publication": 2006
+},
+{
+    "Manga":"Bleach",
+    "Mangaka":"Tite Kubo",
+    "Description": "",
+    "image":"bleach.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2001,
+   "final publication": 2016
+},
+{
+    "Manga":"Ichigo 100%",
+    "Mangaka":"Mizuki Kawashita",
+    "Description": "",
+    "image":"Ichigo100.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2002,
+    "final publication":2009
+},
+ {
+    "Manga":"Sailor Moon",
+    "Mangaka": "Naoko Takeuchi",
+     "Description": "",
+     "image":"sailor moon.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1991,
+   "final publication": 1997
+},
+{
+    "Manga":"Akira",
+    "Mangaka": "Katsuhiro Otomo",
+    "Description": "akira.jpg",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 1982,
+   "final publication": 1990
+},
+{
+    "Manga": "One Piece",
+    "Mangaka": "Eiichirou Oda",
+    "Description": "",
+    "image":"onepiece.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication":1997,
+    "final publication": 2400
+},
+{
+    "Manga":"Haikyuu!!",
+    "Mangaka":"Haruichi Furudate",
+    "Description": "",
+    "image":"haikyuu.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2012,
+    "final publication": "en curso"
+},
+{
+    "Mangaka": "Kohei Horikoshi",
+    "Description": "",
+    "image":"bnha.jpg",
+    "link":"",
+    "Manga":"Boku no Hero Academia",
+    "chapters":23,
+    "start publication": 2014,
+    "final publication": "en curso"
+},
+{
+    "Manga":"Black Clover",
+    "Mangaka":"Yuuki Tabata",
+    "Description": "",
+    "image":"blackClover.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2015,
+    "final publication":"en curso"
+},
+{
+    "Manga": "Kimetsu no Yaiba",
+    "Mangaka":"Koyoharu Gotouge",
+    "Description": "kimetsu.jpg",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 2016,
+    "final publication":"en curso"
+},
+{
+    "Manga":"Yakusoku no Neverland",
+    "Mangaka":"Posuka Demisu & Kaiu Shirai",
+    "Description": "",
+    "image":"yakusoku.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2016,
+    "final publication":"en curso"
+},
+{
+    "Manga": "Death Note",
+    "Mangaka":"Takeshi Obata & Tsugumi Ohba",
+    "Description": "death.jpg",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 2003,
+   "final publication": 2007
+},
+{
+    "Manga":"Dr.Stone",
+    "Mangaka":"Riichiro Inagaki & Boichi",
+    "Description": "stone.jpg",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 2017,
+    "final publication":"en curso"
+},
+{
+    "Manga": "Kimi ni Todoke",
+    "Mangaka": "Karujo Shiina",
+    "Description": "kimini.jpg",
+    "image":"",
+    "link":"",
+    "chapters":23,
+    "start publication": 2010,
+    "final publication": 2017
+},
+{
+    "Manga": "Tonari no Kaibutsu kun",
+    "Mangaka": "Robico",
+    "Description": "",
+    "image":"tonari.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2008,
+   "final publication": 2013
+}, 
+{
+    "Manga":"Shugo Chara",
+    "Mangaka": "PEACH-IT",
+    "Description": "",
+    "image":"shugo.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2006,
+    "final publication":2010
+},
+{
+    "Manga": "Ranma 1/2",
+    "Mangaka": "Rumiko Takahashi",
+    "Description": "",
+    "image":"ranma.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1987,
+    "final publication": 1996
+},
+{
+    "Manga": "Inuyasha",
+    "Mangaka": "Rumiko Takahashi",
+    "Description": "",
+    "image":"inuyasha.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1996,
+    "final publication": 2008
+},
+{
+    "Manga": "Urusei Yatsura",
+    "Mangaka": "Rumiko Takahashi",
+    "Description": "",
+    "image":"yatsura.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 1978,
+   "final publication": 1987
+},
+{
+    "Manga": "Mob Psycho 100%",
+    "Mangaka": "ONE",
+    "Description": "",
+    "image":"mob.PNG",
+    "link":"",
+    "chapters":23,
+    "start publication": 1978,
+   "final publication": 1987
+},
+{
+    "Manga": "ONE PUNCH MAN",
+    "Mangaka": "ONE & MURATA",
+    "Description": "",
+    "image":"one.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2010,
+    "final publication": "en curso"
+},
+{
+    "Manga": "Toukyo Ghoul",
+    "Mangaka": "Sui ishida",
+    "Description": "",
+    "image":"tokyo.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication":2014,
+    "final publication":2018
+},
+{
+    "Manga" : "Assasination Classroom",
+    "Mangaka": "",
+    "Description": "",
+    "image":"koro.jpg",
+    "link":"",
+    "chapters":23,
+    "start publication": 2015,
+    "final publication":2016
+}
+]
